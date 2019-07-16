@@ -28,11 +28,11 @@ class FilmDetails extends React.Component {
                         </p>
                         <p>
                         Director: 
-                         <small className="text-letf"> {films.release_date }</small>
+                         <small className="text-letf"> {films.director }</small>
                         </p>
                         <p>
                         Producer: 
-                         <small className="text-letf"> {films.release_date }</small>
+                         <small className="text-letf"> {films.producer }</small>
                         </p>
                     </div>
                 </section>
